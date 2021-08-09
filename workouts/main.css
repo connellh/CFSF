@@ -34,4 +34,4 @@ div.h1{margin-top:0;}
 @font-face{font-family:'RobotoBold';font-weight:normal;font-style:normal;src:url('https://app.wodify.com/AthleteTheme/webfonts/Roboto-BoldCondensed-webfont.eot');src:url('https://app.wodify.com/AthleteTheme/webfonts/Roboto-BoldCondensed-webfont.eot#iefix') format('embedded-opentype'),      url('https://app.wodify.com/AthleteTheme/webfonts/Roboto-BoldCondensed-webfont.woff') format('woff'),      url('https://app.wodify.com/AthleteTheme/webfonts/Roboto-BoldCondensed-webfont.ttf') format('truetype'),      url('https://app.wodify.com/AthleteTheme/webfonts/Roboto-BoldCondensed-webfont.svg#RobotoBold') format('svg');}
 body {
     background-color: black;
-}
+}<head><meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="main.css"></head>
