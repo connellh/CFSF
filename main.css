@@ -1,0 +1,49 @@
+.component_show_wrapper {
+    padding-left: 20px;
+    line-height:1.2em;
+}
+
+.wod_comment {
+    font-style: italic;
+}
+
+.component_name {
+    font-weight: bold;
+    color: #cc2626;
+    word-wrap: break-word;
+}
+
+.component_comment {
+    font-style: italic;
+    color: #aaaaaa;
+    margin-top: 5px
+}
+
+.component_wrapper,
+.wod_wrapper {
+    word-wrap: break-word;
+}
+
+.section_title {
+    font-weight: bold;
+    margin-top: 1em;
+    word-wrap: break-word;
+}
+
+.Component_Display_Name{
+    margin-left:auto;
+    margin-right:auto;
+    overflow:auto;
+    padding:5px;
+    text-align:left;
+    line-height:200%;
+}
+
+.wod_display_control_block input, .wod_display_control_block select {
+    margin-bottom:10px;
+
+}
+
+.wod_display_control_block {
+    font-size:.75em;
+}
